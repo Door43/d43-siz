@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[siz:home|Door43 (siz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-siz|d43-siz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-siz/archive/master.zip|d43-siz.zip]]
+
+**Recent Changes**
+{{changes>ns = siz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/siz|Ethnologue data]]
+
